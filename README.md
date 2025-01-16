@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=0082F7&background=FFFFFF00&center=true&random=true&width=435&lines=Hi%2C+I'm+Bryan;A+Product+Engineer;Building+products+that+matter;Let%E2%80%99s+make+tech+better+together!+)](https://git.io/typing-svg)
 
 
-### About Me
+## About Me
 A software engineer is a hybrid professional who combines software engineering expertise with a deep understanding of product development and user needs. I work closely with cross-functional teams, including designers, product managers, and stakeholders, to translate ideas into functional, scalable, and user-centered solutions.
 
 ### Programming Languages
@@ -32,17 +32,7 @@ A software engineer is a hybrid professional who combines software engineering e
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Let's Connect
+- 💬 Ask me about software development best practices, system design, project planning, building SaaS and building teams.
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:barryb.ebeh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lacodist)
 
