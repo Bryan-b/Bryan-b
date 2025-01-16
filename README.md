@@ -1,4 +1,4 @@
-## Hi there 👋
+![Changing Text](https://readme-typing-svg.herokuapp.com/?lines=I'm+Bryan;Explore+Projects;Contribute+and+Collaborate)
 
 <!--
 **Bryan-b/Bryan-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
