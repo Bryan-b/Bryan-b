@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=0082F7&background=FFFFFF00&center=true&random=true&width=435&lines=Hi%2C+I'm+Bryan;A+Product+Engineer;Building+products+that+matter;Let%E2%80%99s+make+tech+better+together!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=0082F7&background=FFFFFF00&center=true&random=true&width=435&lines=Hi%2C+I'm+Bryan;A+Software+Engineer;Building+products+that+matter;Let%E2%80%99s+make+tech+better+together!+)](https://git.io/typing-svg)
 
 
 ## About Me
-A software engineer is a hybrid professional who combines software engineering expertise with a deep understanding of product development and user needs. I work closely with cross-functional teams, including designers, product managers, and stakeholders, to translate ideas into functional, scalable, and user-centered solutions.
+A hybrid professional who combines software engineering expertise with a deep understanding of product development and user needs. I work closely with cross-functional teams, including designers, product managers, and stakeholders, to translate ideas into functional, scalable, and user-centered solutions.
 
 ### Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
