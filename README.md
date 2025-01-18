@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=0082F7&background=FFFFFF00&center=true&random=true&width=435&lines=Hi%2C+I'm+Bryan;A+Software+Engineer;Building+products+that+matter;Let%E2%80%99s+make+tech+better+together!+)](https://git.io/typing-svg)
-
-
-## About Me
+# About Me
 A hybrid professional who combines software engineering expertise with a deep understanding of product development and user needs. I work closely with cross-functional teams, including designers, product managers, and stakeholders, to translate ideas into functional, scalable, and user-centered solutions.
+
+# My Arsenal 💪🏾
 
 ### Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
@@ -32,7 +31,7 @@ A hybrid professional who combines software engineering expertise with a deep un
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
 
-## Let's Connect
+# Let's Connect
 - 💬 Ask me about software development best practices, system design, project planning, building SaaS and building teams.
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:barryb.ebeh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lacodist)
 
