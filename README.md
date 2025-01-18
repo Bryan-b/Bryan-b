@@ -1,6 +1,25 @@
 # About Me
 A hybrid professional who combines software engineering expertise with a deep understanding of product development and user needs. I work closely with cross-functional teams, including designers, product managers, and stakeholders, to translate ideas into functional, scalable, and user-centered solutions.
 
+
+### Project 1: Awesome Project
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Bryan-b/jsmimic-php">
+        <img src="https://via.placeholder.com/150" alt="Project Image" width="150"/>
+      </a>
+      <br/>
+      <strong>jsmimic-php</strong>
+      <br/>
+      A JS library that allows you to mimic PHP functions in JavaScript, making the transition from PHP to JavaScript smoother.
+      <br/>
+      <a href="https://github.com/Bryan-b/jsmimic-php">Read More</a>
+    </td>
+
+  </tr>
+</table>
+
 # My Arsenal 💪🏾
 
 ### Programming Languages
