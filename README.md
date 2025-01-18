@@ -2,12 +2,12 @@
 A hybrid professional who combines software engineering expertise with a deep understanding of product development and user needs. I work closely with cross-functional teams, including designers, product managers, and stakeholders, to translate ideas into functional, scalable, and user-centered solutions.
 
 
-### Project 1: Awesome Project
+# Open Source Projects:
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/Bryan-b/jsmimic-php">
-        <img src="https://via.placeholder.com/150" alt="Project Image" width="150"/>
+    <td class="flex flex-row">
+      <a href="https://github.com/Bryan-b/Bryan-b/raw/b3c3ad8a54a3fe0c6dbe77073e3debb4bd91edbd/Screenshot%202025-01-18%20at%2012.58.29%20PM.png">
+        <img src="https://github.com/Bryan-b/Bryan-b/raw/b3c3ad8a54a3fe0c6dbe77073e3debb4bd91edbd/Screenshot%202025-01-18%20at%2012.58.29%20PM.png" alt="jsmimi-php" width="250"/>
       </a>
       <br/>
       <strong>jsmimic-php</strong>
